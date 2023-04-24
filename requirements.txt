@@ -59,7 +59,6 @@ MarkupSafe
 matplotlib
 matplotlib-inline
 mistune
-ml-dtypes
 nbclassic
 nbclient
 nbconvert
